@@ -3,7 +3,7 @@ import Africa from '../component/Africa';
 import Discount from '../component/Discount';
 import Footer from '../component/Footer';
 import HeadingTitle from '../component/HeadingTitle';
-import HeroContent from '../component/heroContent';
+import HeroContent from '../component/HeroContent';
 import HomeCard from '../component/HomeCard';
 import HomeNavBar from '../component/Navabar/HomeNavBar';
 import Subscribe from '../component/Subscribe';

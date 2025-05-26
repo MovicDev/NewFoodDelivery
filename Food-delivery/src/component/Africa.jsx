@@ -1,6 +1,6 @@
 import React from 'react'
 import AfricaCard from './AfricaCard'
-import friedChi from '../assets/images/Fried.png'
+import friedChi from '../assets/images/fried.png'
 import Pizza from '../assets/images/Ellipse 28.png'
 import hamburger from '../assets/images/pizzer1.png'
 import rice from '../assets/images/Ellipse 30.png'

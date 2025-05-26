@@ -1,7 +1,7 @@
 import React from 'react'
 import chif from '../assets/images/chf.png'
 import DiscountFood from './DiscountFood'
-import component2 from '../assets/images/component 2.png'
+import component2 from '../assets/images/Component 2.png '
 import component1 from '../assets/images/amala.png'
 import component3 from '../assets/images/jollof.png'
 const Discount = () => {
